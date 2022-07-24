@@ -1,7 +1,7 @@
 
 
 ## URL SHORTNER
-Previous Link: https://master.d2bu1sqkyi2p27.amplifyapp.com/
+Previous Link: https://master.d2bu1sqkyi2p27.amplifyapp.com/  <br>
 Check the website here: https://remarkable-mermaid-41dcdb.netlify.app/
 
 ## Video For Reference
